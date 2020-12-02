@@ -1,0 +1,13 @@
+
+
+-find restaurant site to improve (la parrilla)
+    -find template 
+
+-Needs to be 2 pages
+    -Home page
+    -2nd page menu and locations
+
+-Header should include
+    -nav bar (sticky)
+        -menu
+        -contact info in sticky header

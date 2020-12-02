@@ -1,4 +1,17 @@
+/* color palette */
+
+body{
+    margin: 0;
+    height: 100vh;
+    width: auto;
+}
 
 .gold {
-    
+    color: gold;
+}
+
+.lgImage {
+    height: 100%;
+    width: auto;
+
 }
